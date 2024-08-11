@@ -1,0 +1,41 @@
+{
+  "user": [
+    {
+      "id": "Abdi",
+      "name": "Abdi Bekele",
+      "password": "6570",
+      "email": "abdibekelebeyene@gmail.com",
+      "phone": "0916799994",
+      "country": "Ethiopia",
+      "address": "Ambo",
+      "gender": "male"
+    }
+  ],
+  "items": [
+    {
+      "id": "1",
+      "name": "Wireless Headphones",
+      "description": "High-quality wireless headphones with noise-cancelling technology and up to 20 hours of battery life."
+    },
+    {
+      "id": "2",
+      "name": "Stainless Steel Water Bottle",
+      "description": "Durable, eco-friendly water bottle made of double-walled stainless steel that keeps drinks cold for up to 24 hours."
+    },
+    {
+      "id": "3",
+      "name": "Programmable Thermostat",
+      "description": "Smart thermostat that allows you to control your home's temperature remotely and create custom schedules for energy savings."
+    },
+    {
+      "id": "4",
+      "name": "Outdoor Camping Tent",
+      "description": "Spacious, weatherproof tent with a lightweight aluminum frame and easy setup for comfortable camping trips."
+    },
+    {
+      "id": "5",
+      "name": "Automatic Coffee Maker",
+      "description": "Programmable coffee machine that brews fresh, hot coffee at the touch of a button or on a schedule."
+    }
+  ]
+}
