@@ -32,7 +32,7 @@ const ListingItem = () => {
   }, []);
 
   return (
-    <div className="container my-5">
+    <div className="container my-5 pt-5">
       <div className="card">
         <div className="card-header">
           <h2 className="card-title mb-0">Listing Item</h2>

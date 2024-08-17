@@ -31,7 +31,7 @@ const Navbar = () => {
   };
 
   return (
-    <div>
+    <div className="fixed-top">
       <nav className="navbar navbar-expand-lg navbar-dark bg-primary sticky-top shadow-sm">
         <div className="container d-flex justify-content-between align-items-center">
           <Link className="navbar-brand fw-bold d-flex align-items-center" to={"/"}>

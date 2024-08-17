@@ -17,12 +17,11 @@ const EditItem = () => {
       .catch((err) => {
         console.log(err.message);
       });
-  }, []);
+  }, [itemid]);
 
   const [id, setId] = useState("");
   const [name, setName] = useState("");
   const [description, setDescription] = useState("");
-  const [validation, setValidation] = useState(false);
 
   const navigate = useNavigate();
 
@@ -45,7 +44,7 @@ const EditItem = () => {
   };
 
   return (
-    <div className="container my-5">
+    <div className="container my-5 pt-5">
       <div className="row justify-content-center">
         <div className="col-lg-6">
           <div className="card">
@@ -64,7 +63,6 @@ const EditItem = () => {
                   <input
                     required
                     value={name}
-                    onMouseDown={(e) => setValidation(true)}
                     onChange={(e) => setName(e.target.value)}
                     className="form-control"
                   ></input>
