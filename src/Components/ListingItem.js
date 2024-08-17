@@ -84,7 +84,6 @@ const ListingItem = () => {
           </div>
         </div>
       </div>
-      <Footer />
     </>
   );
 };
