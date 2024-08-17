@@ -19,36 +19,6 @@
       "country": "ethiopia",
       "address": "addis ababa",
       "gender": "male"
-    },
-    {
-      "id": "mame",
-      "name": "mame",
-      "password": "1234",
-      "email": "abdibekelebeyene@gmail.com",
-      "phone": "463467",
-      "country": "ethiopia",
-      "address": "addis ababa",
-      "gender": "male"
-    },
-    {
-      "id": "mame",
-      "name": "mame",
-      "password": "1234",
-      "email": "abdibekelebeyene@gmail.com",
-      "phone": "463467",
-      "country": "ethiopia",
-      "address": "addis ababa",
-      "gender": "male"
-    },
-    {
-      "id": "bre",
-      "name": "branu",
-      "password": "123",
-      "email": "bre@gmail.com",
-      "phone": "083258",
-      "country": "ethiopia",
-      "address": "ambo",
-      "gender": "male"
     }
   ],
   "items": [
